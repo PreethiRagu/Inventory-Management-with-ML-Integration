@@ -1,0 +1,7 @@
+Flask
+firebase-admin
+flask-cors
+gunicorn
+reportlab
+python-dotenv
+requests
